@@ -1,0 +1,29 @@
+/* Font Family */
+*{
+    font-family: "Spartan";
+}
+
+/* Color Palette */
+.text-dark-magenta{
+    color: #502050
+}
+
+.bg-dark-magenta{
+    background-color: #502050
+}
+
+.color-star{
+    color: #e69a51
+}
+
+.text-saturated-pink{
+    color: #EE68a4
+}
+
+.text-light-magenta{
+    color: #937B92
+}
+
+.bg-light-magenta{
+    background-color: #f7f2f7
+}
